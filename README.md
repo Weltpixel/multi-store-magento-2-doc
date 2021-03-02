@@ -1,14 +1,14 @@
-<h1><a href="https://www.weltpixel.com/multi-store-multi-brand-language-magento-2.html">Enhanced Magento 2 Multi-Store Multi-Brand Extension by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/multi-store-multi-brand-language-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Enhanced Magento 2 Multi-Store Multi-Brand Extension by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/multi-store-multi-brand-language-magento-2.html"><img src="https://www.weltpixel.com/media/catalog/product/2/6/26._multi_store_multi_brand_1_1.png" alt="enhanced Multi-Store Multi-Brand Extension by Weltpixel"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/multi-store-multi-brand-language-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/2/6/26._multi_store_multi_brand_1_1.png" alt="enhanced Multi-Store Multi-Brand Extension by Weltpixel"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	  	<h1>ABOUT THE ENHANCED MAGENTO 2 MULTI-STORE MULTI-BRAND EXTENSION.</h1>
-  	<p>
+        <h1>ABOUT THE ENHANCED MAGENTO 2 MULTI-STORE MULTI-BRAND EXTENSION.</h1>
+    <p>
 The Magento 2 Multi-Store module allows you to show different brands or languages in the header of your store, while offering the possibility to navigate between these store-views.
     </p>
     <p>
@@ -20,8 +20,8 @@ With this extension you can have multiple store-views, share cart, user sessions
     <p>
 You don't have to start from scratch with your new brand! Take advantage of the popularity of your main brand and add the rest to the header of your store. For example, one domain web site - www.zara.com - with multiple brands: Zara , Zara Kids, Zara Home.
     </p>
-         <h3>Download Here: <a href="https://www.weltpixel.com/multi-store-multi-brand-language-magento-2.html">Enhanced Magento 2 Multi-Store Multi-Brand Extension by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+         <h3>Download Here: <a href="https://www.weltpixel.com/multi-store-multi-brand-language-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Enhanced Magento 2 Multi-Store Multi-Brand Extension by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
                             </div></td>
  </tr>
 </table>
@@ -185,8 +185,8 @@ You don't have to start from scratch with your new brand! Take advantage of the 
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                                                                                                                                                                           <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -243,4 +243,4 @@ You don't have to start from scratch with your new brand! Take advantage of the 
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/multi-store-multi-brand-language-magento-2.html">Enhanced Magento 2 Multi-Store Multi-Brand Extension by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/multi-store-multi-brand-language-magento-2.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Enhanced Magento 2 Multi-Store Multi-Brand Extension by WeltPixel.</a></h3>
